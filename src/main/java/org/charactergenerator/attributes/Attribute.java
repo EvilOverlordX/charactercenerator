@@ -1,5 +1,6 @@
 package org.charactergenerator.attributes;
 
+/*foo*/
 public enum Attribute {
     STRENGTH("Strength", "STR"),
     EXCEPTIONAL_STRENGTH("Exceptional Strength", "XSTR"),
